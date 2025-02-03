@@ -1,0 +1,4 @@
+25-02-03 14:06 Session started
+----------------------------------------
+14:08:09 Document switched to: c:\Users\dante.wallen\github-classroom\TE23E-PRRPRR01\prog1-wpf-TE23E-Wallen-Dante\prog1-wpf-TE23E-Wallen-Dante.sln
+----------------------------------------
