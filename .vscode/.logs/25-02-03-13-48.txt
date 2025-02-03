@@ -103,3 +103,83 @@
 13:51:39 000:001 > te
 13:51:40 000:002 > tes
 13:51:40 000:003 > test
+13:57:22 Document switched to: c:\Users\dante.wallen\github-classroom\TE23E-PRRPRR01\prog1-wpf-TE23E-Wallen-Dante\global.json
+----------------------------------------
+13:57:25 Document switched to: c:\Users\dante.wallen\github-classroom\TE23E-PRRPRR01\prog1-wpf-TE23E-Wallen-Dante\.vscode\settings.json
+----------------------------------------
+13:57:30 050:002 > ,
+"files.associations": {
+    "*.xaml": "xml"
+},
+"xml.fileAssociations": [
+    {
+        "pattern": "**/*.xaml",
+        "systemId": "https://raw.githubusercontent.com/karye/xamelot/refs/heads/master/syntax/xaml.xsd"
+    }
+],
+13:57:49 Document switched to: c:\Users\dante.wallen\github-classroom\TE23E-PRRPRR01\prog1-wpf-TE23E-Wallen-Dante\.vscode\settings.json
+----------------------------------------
+13:58:24 Document switched to: \defaultSettings.json
+----------------------------------------
+13:58:28 Document switched to: c:\Users\dante.wallen\github-classroom\TE23E-PRRPRR01\prog1-wpf-TE23E-Wallen-Dante\.vscode\settings.json
+----------------------------------------
+13:59:17 049:008 > ,
+"files.associations": {
+    "*.xaml": "xml"
+},
+"xml.fileAssociations": [
+    {
+        "pattern": "**/*.xaml",
+        "systemId": "https://raw.githubusercontent.com/karye/xamelot/refs/heads/master/syntax/xaml.xsd"
+    }
+],
+13:59:30 051:002 > ,
+"files.associations": {
+    "*.xaml": "xml"
+},
+"xml.fileAssociations": [
+    {
+        "pattern": "**/*.xaml",
+        "systemId": "https://raw.githubusercontent.com/karye/xamelot/refs/heads/master/syntax/xaml.xsd"
+    }
+],
+14:01:20 Document switched to: c:\Users\dante.wallen\AppData\Roaming\Code\User\profiles\1f8701ba\snippets\Global-Snippet.code-snippets
+----------------------------------------
+14:01:26 052:000 > {
+    "XAML event": {
+        "prefix": "event",
+        "body": [
+            "private void $1(object sender, RoutedEventArgs e)",
+            "{",
+            "\t$2",
+            "}"
+        ],
+        "description": "Metod för att fånga event från XAML"
+    }
+}
+14:01:32 050:004 > "XAML event": {
+        "prefix": "event",
+        "body": [
+            "private void $1(object sender, RoutedEventArgs e)",
+            "{",
+            "\t$2",
+            "}"
+        ],
+        "description": "Metod för att fånga event från XAML"
+    }
+
+14:01:34 049:005 > ,
+14:01:41 Document switched to: c:\Users\dante.wallen\github-classroom\TE23E-PRRPRR01\prog1-wpf-TE23E-Wallen-Dante\.vscode\settings.json
+----------------------------------------
+14:02:43 Document switched to: c:\Users\dante.wallen\AppData\Roaming\Code\User\profiles\1f8701ba\snippets\Global-Snippet.code-snippets
+----------------------------------------
+14:02:51 Document switched to: c:\Users\dante.wallen\github-classroom\TE23E-PRRPRR01\prog1-wpf-TE23E-Wallen-Dante\.vscode\settings.json
+----------------------------------------
+14:03:56 Document switched to: c:\Users\dante.wallen\AppData\Roaming\Code\User\profiles\1f8701ba\snippets\Global-Snippet.code-snippets
+----------------------------------------
+14:04:01 Document switched to: c:\Users\dante.wallen\github-classroom\TE23E-PRRPRR01\prog1-wpf-TE23E-Wallen-Dante\.vscode\settings.json
+----------------------------------------
+14:04:07 Document switched to: c:\Users\dante.wallen\github-classroom\TE23E-PRRPRR01\prog1-wpf-TE23E-Wallen-Dante\.vscode\csharp.code-snippets
+----------------------------------------
+14:04:20 Document switched to: c:\Users\dante.wallen\AppData\Roaming\Code\User\profiles\1f8701ba\snippets\Global-Snippet.code-snippets
+----------------------------------------
