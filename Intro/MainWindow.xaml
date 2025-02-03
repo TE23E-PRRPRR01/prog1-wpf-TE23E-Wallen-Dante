@@ -1,12 +1,15 @@
 ﻿<Window x:Class="Intro.MainWindow"
-        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
-        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
-        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="clr-namespace:Intro"
-        mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid>
-
-    </Grid>
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:local="clr-namespace:Intro"
+    mc:Ignorable="d"
+    Title="WPF Intro" Height="500" Width="800"
+    Background="#ebda79">
+    <StackPanel>
+        <Label Foreground="#000000">I'm a labeling label that labels a label when labeling on a lable</Label>
+        <TextBox Margin="10" Padding="10" Width="500" Height="200" AcceptsReturn="True" TextWrapping="Wrap" />
+        <Button Margin="10" Padding="10" Width="100" Height="40">hihi knapp</Button>
+    </StackPanel>
 </Window>
