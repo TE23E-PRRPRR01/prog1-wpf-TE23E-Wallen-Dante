@@ -1,0 +1,27 @@
+25-02-03 13:47 Session started
+----------------------------------------
+13:47:46 Document switched to: c:\Users\dante.wallen\AppData\Roaming\Code\User\globalStorage\alefragnani.project-manager\projects.json
+----------------------------------------
+
+13:47:54 007:002 > ,
+13:47:54 008:004 > {
+		"name": "te23e-prog1-TE23E-Wallen-Dante",
+		"rootPath": "c:\\Users\\dante.wallen\\github-classroom\\TE23E-PRRPRR01\\te23e-prog1-TE23E-Wallen-Dante",
+		"paths": [],
+		"tags": [],
+		"enabled": true
+	}
+
+13:48:03 009:022 > -
+13:48:03 009:023 > -w
+13:48:03 009:024 > -wp
+13:48:03 009:025 > -wpf
+13:48:24 010:015 > C:\Users\dante.wallen\github-classroom\TE23E-PRRPRR01\prog1-wpf-TE23E-Wallen-Dante
+13:48:26 010:015 > c:\\Users\\dante.wallen\\github-classroom\\TE23E-PRRPRR01\\te23e-prog1-TE23E-Wallen-Dante
+13:48:26 010:015 > C:\Users\dante.wallen\github-classroom\TE23E-PRRPRR01\prog1-wpf-TE23E-Wallen-Dante
+
+13:48:29 010:018 > \
+13:48:30 010:025 > \\
+13:48:31 010:039 > \\\
+13:48:32 010:057 > \\\\
+13:48:33 010:072 > \\\\\
