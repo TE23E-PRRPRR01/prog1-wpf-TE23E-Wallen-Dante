@@ -8,8 +8,10 @@
     Title="WPF Intro" Height="500" Width="800"
     Background="#ebda79">
     <StackPanel>
-        <Label Foreground="#000000">I'm a labeling label that labels a label when labeling on a lable</Label>
-        <TextBox Margin="10" Padding="10" Width="500" Height="200" AcceptsReturn="True" TextWrapping="Wrap" />
-        <Button Margin="10" Padding="10" Width="100" Height="40" OnClick="KlickOk">hihi knapp</Button>
+        <Label Foreground="#000000">I'm a labeling label that labels a label when labeling on a
+            lable</Label>
+        <TextBox Margin="10" Padding="10" Width="500" Height="200" AcceptsReturn="True"
+            TextWrapping="Wrap" />
+        <Button Margin="10" Padding="10" Width="100" Height="40" Click="ClickButton">hihi knapp</Button>
     </StackPanel>
 </Window>

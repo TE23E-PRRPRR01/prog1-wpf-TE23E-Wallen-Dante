@@ -21,9 +21,8 @@ public partial class MainWindow : Window
         InitializeComponent();
     }
 
-    // Ny metod för att hantera klicksignal från knappen Ok
-    private void KlickOk(object sender, RoutedEventArgs e)
+    private void ClickButton(object sender, RoutedEventArgs e)
     {
-        MessageBox.Show("Du klickade på OK");
+        MessageBox.Show("Du klickade på knappen");
     }
 }
