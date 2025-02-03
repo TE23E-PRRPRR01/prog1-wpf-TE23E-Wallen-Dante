@@ -36,3 +36,70 @@
 13:51:39 000:001 > te
 13:51:40 000:002 > tes
 13:51:40 000:003 > test
+13:51:44 000:000 > 25-02-03 13:47 Session started
+----------------------------------------
+13:47:46 Document switched to: c:\Users\dante.wallen\AppData\Roaming\Code\User\globalStorage\alefragnani.project-manager\projects.json
+----------------------------------------
+
+13:47:54 007:002 > ,
+13:47:54 008:004 > {
+		"name": "te23e-prog1-TE23E-Wallen-Dante",
+		"rootPath": "c:\\Users\\dante.wallen\\github-classroom\\TE23E-PRRPRR01\\te23e-prog1-TE23E-Wallen-Dante",
+		"paths": [],
+		"tags": [],
+		"enabled": true
+	}
+
+13:48:03 009:022 > -
+13:48:03 009:023 > -w
+13:48:03 009:024 > -wp
+13:48:03 009:025 > -wpf
+13:48:24 010:015 > C:\Users\dante.wallen\github-classroom\TE23E-PRRPRR01\prog1-wpf-TE23E-Wallen-Dante
+13:48:26 010:015 > c:\\Users\\dante.wallen\\github-classroom\\TE23E-PRRPRR01\\te23e-prog1-TE23E-Wallen-Dante
+13:48:26 010:015 > C:\Users\dante.wallen\github-classroom\TE23E-PRRPRR01\prog1-wpf-TE23E-Wallen-Dante
+
+13:48:29 010:018 > \
+13:48:30 010:025 > \\
+13:48:31 010:039 > \\\
+13:48:32 010:057 > \\\\
+13:48:33 010:072 > \\\\\
+13:51:44 004:000 > "activityBar.background": "#1d5e61",
+        "titleBar.activeBackground": "#0f4547",
+13:51:44 000:000 > 25-02-03 13:48 Session started
+----------------------------------------
+13:49:21 Document switched to: c:\Users\dante.wallen\github-classroom\TE23E-PRRPRR01\prog1-wpf-TE23E-Wallen-Dante\.gitignore
+----------------------------------------
+13:49:25 Document switched to: c:\Users\dante.wallen\github-classroom\TE23E-PRRPRR01\prog1-wpf-TE23E-Wallen-Dante\global.json
+----------------------------------------
+13:49:44 Document switched to: c:\Users\dante.wallen\github-classroom\TE23E-PRRPRR01\prog1-wpf-TE23E-Wallen-Dante\.vscode\csharp.code-snippets
+----------------------------------------
+13:49:45 Document switched to: c:\Users\dante.wallen\github-classroom\TE23E-PRRPRR01\prog1-wpf-TE23E-Wallen-Dante\.vscode\.logs\25-02-03-13-47.txt
+----------------------------------------
+13:49:46 Document switched to: c:\Users\dante.wallen\github-classroom\TE23E-PRRPRR01\prog1-wpf-TE23E-Wallen-Dante\.vscode\.logs\25-02-03-13-48.txt
+----------------------------------------
+13:49:46 Document switched to: c:\Users\dante.wallen\github-classroom\TE23E-PRRPRR01\prog1-wpf-TE23E-Wallen-Dante\.vscode\.logs\25-02-03-13-47.txt
+----------------------------------------
+13:49:47 Document switched to: c:\Users\dante.wallen\github-classroom\TE23E-PRRPRR01\prog1-wpf-TE23E-Wallen-Dante\.vscode\csharp.code-snippets
+----------------------------------------
+13:49:50 Document switched to: c:\Users\dante.wallen\github-classroom\TE23E-PRRPRR01\prog1-wpf-TE23E-Wallen-Dante\.vscode\extensions.json
+----------------------------------------
+13:49:56 Document switched to: c:\Users\dante.wallen\github-classroom\TE23E-PRRPRR01\prog1-wpf-TE23E-Wallen-Dante\.vscode\settings.json
+----------------------------------------
+13:50:04 004:034 > "#1d6146"
+13:50:07 004:034 > "#1d5e61"
+13:50:14 005:037 > "#532888"
+13:50:16 005:037 > "#287888"
+13:50:18 005:037 > "#286888"
+13:50:21 005:037 > "#28886e"
+13:50:23 005:037 > "#288588"
+13:50:26 005:037 > "#279296"
+13:50:28 005:037 > "#1c6d6f"
+13:50:30 005:037 > "#165557"
+13:50:33 005:037 > "#165557"
+13:50:33 005:037 > "#165557"
+13:50:34 005:037 > "#165557"
+13:50:34 005:037 > "#0f4547"
+13:51:39 000:000 > t
+13:51:39 000:001 > te
+13:51:40 000:002 > tes
+13:51:40 000:003 > test
