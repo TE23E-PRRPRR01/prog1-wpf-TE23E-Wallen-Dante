@@ -15,9 +15,15 @@ namespace Intro;
 /// Interaction logic for MainWindow.xaml
 /// </summary>
 public partial class MainWindow : Window
+{
+    public MainWindow()
     {
-        public MainWindow()
-        {
-            InitializeComponent();
-        }
+        InitializeComponent();
     }
+
+    // Ny metod för att hantera klicksignal från knappen Ok
+    private void KlickOk(object sender, RoutedEventArgs e)
+    {
+        MessageBox.Show("Du klickade på OK");
+    }
+}
