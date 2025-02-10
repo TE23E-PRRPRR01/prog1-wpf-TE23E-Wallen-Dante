@@ -1,0 +1,31 @@
+﻿<Window x:Class="AreaApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AreaApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800"
+        SizeToContent="WidthAndHeight"
+        Background="#ff66da"
+        MinWidth="350"
+        Icon="/Assets/fnbr.ico"
+        Name="Hallo">
+    <StackPanel Margin="60">
+
+        <Label>Ange bredd:</Label>
+        <TextBox Name="vwidth"></TextBox>
+
+        <Label>Ange höjd:</Label>
+        <TextBox Name="vheight"></TextBox>
+
+        <Button Click="CalculateArea" Background="#f0d5fa" Margin="0 30 0 10" Padding="5 5 5 5">Kalkylera</Button>
+
+        <Label>Arean är:</Label>
+        <TextBox IsReadOnly="true" Name="varea"></TextBox>
+
+        <Button Click="Clear" Background="#f0d5fa" Margin="0 30 0 10" Padding="5 5 5 5">Rensa</Button>
+        <TextBox IsReadOnly="true" Name="notis" Background="#ff66da" BorderThickness="0"></TextBox>
+
+    </StackPanel>
+</Window>
