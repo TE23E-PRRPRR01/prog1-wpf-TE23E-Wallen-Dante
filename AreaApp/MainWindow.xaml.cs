@@ -1,4 +1,5 @@
-﻿using System.Text;
+﻿using System.Runtime.InteropServices;
+using System.Text;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Data;
@@ -25,8 +26,20 @@ public partial class MainWindow : Window
     private void CalculateArea(object sender, RoutedEventArgs e)
     {
         // Hämta bredd och höjd från textfälten
-        int width = int.Parse(vwidth.Text);
-        int height = int.Parse(vheight.Text);
+        //int width = int.Parse(vwidth.Text);
+        //int height = int.Parse(vheight.Text);
+
+        if (!int.TryParse(vwidth.Text, out int width))
+        {
+            varea.Text = "Felaktig inmatning".ToString();
+            return;
+        }
+        
+        if (!int.TryParse(vheight.Text, out int height))
+        {
+            varea.Text = "Felaktig inmatning".ToString();
+            return;
+        }
 
         // Beräkna arean
         int area = width * height;
