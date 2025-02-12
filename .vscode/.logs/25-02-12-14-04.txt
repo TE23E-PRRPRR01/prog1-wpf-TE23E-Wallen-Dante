@@ -1,0 +1,16 @@
+25-02-12 14:04 Session started
+----------------------------------------
+14:04:58 Document switched to: c:\Users\dante.wallen\github-classroom\TE23E-PRRPRR01\prog1-wpf-TE23E-Wallen-Dante\AreaApp\MainWindow.xaml
+----------------------------------------
+14:05:08 Document switched to: c:\Users\dante.wallen\github-classroom\TE23E-PRRPRR01\prog1-wpf-TE23E-Wallen-Dante\AreaApp\MainWindow.xaml.cs
+----------------------------------------
+14:05:15 Document switched to: c:\Users\dante.wallen\github-classroom\TE23E-PRRPRR01\prog1-wpf-TE23E-Wallen-Dante\AreaApp\MainWindow.xaml.cs
+----------------------------------------
+14:05:17 Document switched to: c:\Users\dante.wallen\github-classroom\TE23E-PRRPRR01\prog1-wpf-TE23E-Wallen-Dante\AreaApp\MainWindow.xaml.cs
+----------------------------------------
+14:05:21 Document switched to: c:\Users\dante.wallen\github-classroom\TE23E-PRRPRR01\prog1-wpf-TE23E-Wallen-Dante\AreaApp\MainWindow.xaml
+----------------------------------------
+14:05:27 Document switched to: c:\Users\dante.wallen\github-classroom\TE23E-PRRPRR01\prog1-wpf-TE23E-Wallen-Dante\AreaApp\MainWindow.xaml.cs
+----------------------------------------
+14:10:22 Document switched to: c:\Users\dante.wallen\github-classroom\TE23E-PRRPRR01\prog1-wpf-TE23E-Wallen-Dante\AreaApp\MainWindow.xaml
+----------------------------------------

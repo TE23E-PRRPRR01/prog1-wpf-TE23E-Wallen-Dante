@@ -1,0 +1,23 @@
+﻿<Window x:Class="SlumpaApp.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:local="clr-namespace:SlumpaApp"
+    mc:Ignorable="d"
+    Title="MainWindow" Height="450" Width="800"
+    Background="#5d5d5d">
+    <StackPanel Margin="40">
+        <Label FontWeight="Bold" HorizontalAlignment="Center">Program för att generera slumptal</Label>
+
+        <Label HorizontalAlignment="Center">Ange minimumgräns:</Label>
+        <TextBox Name="Mingräns" Width="200"></TextBox>
+
+        <Label HorizontalAlignment="Center">Ange maxgräns:</Label>
+        <TextBox Name="Maxgräns" Width="200"></TextBox>
+
+        <Button Click="SlumpaTal" Width="200">Slumpa tal</Button>
+        <TextBox Name="SlumptalOutput" IsReadOnly="true" Width="200"></TextBox>
+
+    </StackPanel>
+</Window>
