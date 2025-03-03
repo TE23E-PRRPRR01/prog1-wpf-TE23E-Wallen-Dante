@@ -1,0 +1,28 @@
+﻿<Window x:Class="EpostApp.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:local="clr-namespace:EpostApp"
+    mc:Ignorable="d"
+    Title="Epost-kollen" Height="450" Width="800"
+    SizeToContent="WidthAndHeight"
+    Background="#3bffd0"
+    >
+    <StackPanel>
+        <Label Margin="10" FontSize="24" FontWeight="Bold" >Meddelanden</Label>
+
+        <StackPanel Orientation="horizontal">
+            <Label Width="80" Margin="10">Epost:</Label>
+            <TextBox Name="tbxEpost" Width="500" Margin="10"></TextBox>
+        </StackPanel>
+
+        <StackPanel Orientation="horizontal">
+            <Label Width="80" Margin="10">Meddelande:</Label>
+            <TextBox Name="tbxText" TextWrapping="Wrap" Width="500" Height="300" Margin="10"></TextBox>
+        </StackPanel>
+
+        <Button Click="KlickaSkicka" Width="150" Padding="10" Margin="10">Skicka</Button>
+        <Label Margin="10" Foreground="#000000" Name="lblStatus">Inga meddelanden...</Label>
+    </StackPanel>
+</Window>
