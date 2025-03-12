@@ -1,0 +1,4 @@
+14:02:13 Document switched to: c:\Users\dante.wallen\github-classroom\TE23E-PRRPRR01\prog1-wpf-TE23E-Wallen-Dante\AreaApp\MainWindow.xaml.cs
+----------------------------------------
+25-03-12 14:02 Session started
+----------------------------------------
