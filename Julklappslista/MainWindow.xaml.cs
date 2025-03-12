@@ -79,6 +79,6 @@ public partial class MainWindow : Window
 
     private void KlickBytUt(object sender, RoutedEventArgs e)
     {
-
+tbxStatus.Text = "Den här knappen har ingen funktion ännu!";
     }
 }
