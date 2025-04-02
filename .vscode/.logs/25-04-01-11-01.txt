@@ -1,0 +1,14 @@
+25-04-01 11:01 Session started
+----------------------------------------
+11:01:21 Document switched to: c:\Users\dante.wallen\github-classroom\TE23E-PRRPRR01\prog1-wpf-TE23E-Wallen-Dante\EpostApp\App.xaml
+----------------------------------------
+11:01:22 Document switched to: c:\Users\dante.wallen\github-classroom\TE23E-PRRPRR01\prog1-wpf-TE23E-Wallen-Dante\EpostApp\App.xaml.cs
+----------------------------------------
+11:01:23 Document switched to: c:\Users\dante.wallen\github-classroom\TE23E-PRRPRR01\prog1-wpf-TE23E-Wallen-Dante\EpostApp\AssemblyInfo.cs
+----------------------------------------
+11:01:24 Document switched to: c:\Users\dante.wallen\github-classroom\TE23E-PRRPRR01\prog1-wpf-TE23E-Wallen-Dante\EpostApp\MainWindow.xaml
+----------------------------------------
+11:01:32 Document switched to: extension-output-ms-dotnettools.vscode-dotnet-runtime-#1-.NET Install Tool
+----------------------------------------
+11:01:34 Document switched to: c:\Users\dante.wallen\github-classroom\TE23E-PRRPRR01\prog1-wpf-TE23E-Wallen-Dante\EpostApp\MainWindow.xaml
+----------------------------------------

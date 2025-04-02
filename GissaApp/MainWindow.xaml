@@ -1,0 +1,25 @@
+﻿<Window x:Class="GissaApp.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:local="clr-namespace:GissaApp"
+    mc:Ignorable="d"
+    Title="Gissa talet" Height="450" Width="800"
+    SizeToContent="WidthAndHeight">
+    <StackPanel>
+        <Label Margin="5" FontSize="24" FontWeight="Bold">Gissa talet (1..100)</Label>
+        <Label Margin="5">Ange gissning:</Label>
+        <TextBox Name="tbxGissning" Margin="5"></TextBox>
+        <StackPanel Margin="5" Orientation="Horizontal" HorizontalAlignment="Center">
+            <Button Click="KlickGissa" Margin="5" Width="100">Gissa</Button>
+            <Button Click="KlickVisaFacit" Margin="5" Width="100">Visa facit</Button>
+        </StackPanel>
+        <Label Margin="5">Resultat:</Label>
+        <TextBox Name="tbxResultat" Margin="5"></TextBox>
+        <Label Margin="5">Gissningshistorik:</Label>
+        <Button Click="KlickVisaGissningar" Margin="5" Width="100">Visa gissningar</Button>
+        <TextBox Name="tbxVisaGissningar" Margin="5" Height="80"></TextBox>
+        <Button Click="KlickSlumpaNyttTal" Margin="5" Width="100">Slumpa nytt tal</Button>
+    </StackPanel>
+</Window>

@@ -1,0 +1,6 @@
+13:51:43 Document switched to: c:\Users\dante.wallen\github-classroom\TE23E-PRRPRR01\prog1-wpf-TE23E-Wallen-Dante\EpostApp\MainWindow.xaml
+----------------------------------------
+25-04-02 13:51 Session started
+----------------------------------------
+13:51:55 Document switched to: c:\Users\dante.wallen\github-classroom\TE23E-PRRPRR01\prog1-wpf-TE23E-Wallen-Dante\EpostApp\MainWindow.xaml
+----------------------------------------

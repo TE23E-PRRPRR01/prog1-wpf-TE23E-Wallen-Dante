@@ -31,6 +31,6 @@
         <Label Foreground="#ffffff" FontSize="16">Julklappar:</Label>
         <ListBox Name="lsbJulklappar" Height="120"></ListBox>
 
-        <TextBox Name="tbxStatus" IsEnabled="false">Placeholder</TextBox>
+        <TextBox Name="tbxStatus" IsEnabled="false"></TextBox>
     </StackPanel>
 </Window>
